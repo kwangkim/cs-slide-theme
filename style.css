@@ -221,8 +221,8 @@ KWANG background: #f9f9fa;
 
 pre code {
   display: block; padding: 0.5em;
-  background: #232323;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #333333;
 }
 
 pre .keyword,
@@ -328,7 +328,7 @@ pre .tex .formula {
 }
 
 code {
-  background-color: #232323 !important; /*KWANG*/
+  background-color: #FFFFFF !important; /*KWANG*/
 }
 
 
